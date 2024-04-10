@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/wallpaper/sf3-3rd-strike-oro-stage-animate.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#202119",
+        "foreground": "#e1cacc",
+        "cursor": "#e1cacc"
+    },
+    "colors": {
+        "color0": "#202119",
+        "color1": "#D7986F",
+        "color2": "#727482",
+        "color3": "#E1AD9C",
+        "color4": "#F1B390",
+        "color5": "#C69CAD",
+        "color6": "#C7ADA2",
+        "color7": "#e1cacc",
+        "color8": "#9d8d8e",
+        "color9": "#D7986F",
+        "color10": "#727482",
+        "color11": "#E1AD9C",
+        "color12": "#F1B390",
+        "color13": "#C69CAD",
+        "color14": "#C7ADA2",
+        "color15": "#e1cacc"
+    }
+}

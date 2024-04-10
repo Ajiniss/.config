@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/wallpaper/wallhaven-nmgkem.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020504",
+        "foreground": "#a3c3c5",
+        "cursor": "#a3c3c5"
+    },
+    "colors": {
+        "color0": "#020504",
+        "color1": "#0A5965",
+        "color2": "#2A5D62",
+        "color3": "#106771",
+        "color4": "#486461",
+        "color5": "#62857A",
+        "color6": "#287884",
+        "color7": "#a3c3c5",
+        "color8": "#728889",
+        "color9": "#0A5965",
+        "color10": "#2A5D62",
+        "color11": "#106771",
+        "color12": "#486461",
+        "color13": "#62857A",
+        "color14": "#287884",
+        "color15": "#a3c3c5"
+    }
+}

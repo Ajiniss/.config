@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/Pictures/wallpaper/wallhaven-exx1yk.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b1b1a",
+        "foreground": "#e6e3de",
+        "cursor": "#e6e3de"
+    },
+    "colors": {
+        "color0": "#0b1b1a",
+        "color1": "#758677",
+        "color2": "#899279",
+        "color3": "#7A8C84",
+        "color4": "#8D968A",
+        "color5": "#A8AC9C",
+        "color6": "#CAC5B2",
+        "color7": "#e6e3de",
+        "color8": "#a19e9b",
+        "color9": "#758677",
+        "color10": "#899279",
+        "color11": "#7A8C84",
+        "color12": "#8D968A",
+        "color13": "#A8AC9C",
+        "color14": "#CAC5B2",
+        "color15": "#e6e3de"
+    }
+}

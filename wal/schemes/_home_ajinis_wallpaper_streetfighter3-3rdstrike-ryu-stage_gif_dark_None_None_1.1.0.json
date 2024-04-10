@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/wallpaper/streetfighter3-3rdstrike-ryu-stage.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#0f160d",
+        "foreground": "#c9deed",
+        "cursor": "#c9deed"
+    },
+    "colors": {
+        "color0": "#0f160d",
+        "color1": "#487B86",
+        "color2": "#659299",
+        "color3": "#4B8DEF",
+        "color4": "#6CABEB",
+        "color5": "#99AD98",
+        "color6": "#B9D0B0",
+        "color7": "#c9deed",
+        "color8": "#8c9ba5",
+        "color9": "#487B86",
+        "color10": "#659299",
+        "color11": "#4B8DEF",
+        "color12": "#6CABEB",
+        "color13": "#99AD98",
+        "color14": "#B9D0B0",
+        "color15": "#c9deed"
+    }
+}

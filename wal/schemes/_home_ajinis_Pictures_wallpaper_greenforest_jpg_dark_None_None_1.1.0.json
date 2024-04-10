@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/Pictures/wallpaper/greenforest.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f100d",
+        "foreground": "#c1cfb5",
+        "cursor": "#c1cfb5"
+    },
+    "colors": {
+        "color0": "#0f100d",
+        "color1": "#4C5A35",
+        "color2": "#305549",
+        "color3": "#346B56",
+        "color4": "#4D6E54",
+        "color5": "#4E8B4D",
+        "color6": "#5B9162",
+        "color7": "#c1cfb5",
+        "color8": "#87907e",
+        "color9": "#4C5A35",
+        "color10": "#305549",
+        "color11": "#346B56",
+        "color12": "#4D6E54",
+        "color13": "#4E8B4D",
+        "color14": "#5B9162",
+        "color15": "#c1cfb5"
+    }
+}

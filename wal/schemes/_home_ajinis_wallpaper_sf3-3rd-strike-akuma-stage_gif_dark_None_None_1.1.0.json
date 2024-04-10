@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/wallpaper/sf3-3rd-strike-akuma-stage.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0D0A",
+        "foreground": "#a9d1c3",
+        "cursor": "#a9d1c3"
+    },
+    "colors": {
+        "color0": "#0A0D0A",
+        "color1": "#4F4428",
+        "color2": "#336449",
+        "color3": "#4B6F53",
+        "color4": "#3E884F",
+        "color5": "#579664",
+        "color6": "#9EAF59",
+        "color7": "#a9d1c3",
+        "color8": "#769288",
+        "color9": "#4F4428",
+        "color10": "#336449",
+        "color11": "#4B6F53",
+        "color12": "#3E884F",
+        "color13": "#579664",
+        "color14": "#9EAF59",
+        "color15": "#a9d1c3"
+    }
+}

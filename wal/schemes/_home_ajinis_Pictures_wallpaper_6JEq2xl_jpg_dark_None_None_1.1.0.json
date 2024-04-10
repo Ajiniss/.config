@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/Pictures/wallpaper/6JEq2xl.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d1512",
+        "foreground": "#c9e3ed",
+        "cursor": "#c9e3ed"
+    },
+    "colors": {
+        "color0": "#0d1512",
+        "color1": "#588F33",
+        "color2": "#6A915F",
+        "color3": "#96AC6E",
+        "color4": "#71AED4",
+        "color5": "#98A99C",
+        "color6": "#ACC4B4",
+        "color7": "#c9e3ed",
+        "color8": "#8c9ea5",
+        "color9": "#588F33",
+        "color10": "#6A915F",
+        "color11": "#96AC6E",
+        "color12": "#71AED4",
+        "color13": "#98A99C",
+        "color14": "#ACC4B4",
+        "color15": "#c9e3ed"
+    }
+}

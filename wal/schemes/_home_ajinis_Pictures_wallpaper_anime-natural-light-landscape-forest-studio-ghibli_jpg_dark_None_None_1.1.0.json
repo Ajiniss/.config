@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/Pictures/wallpaper/anime-natural-light-landscape-forest-studio-ghibli.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f140f",
+        "foreground": "#c5d3a0",
+        "cursor": "#c5d3a0"
+    },
+    "colors": {
+        "color0": "#0f140f",
+        "color1": "#2E4F4A",
+        "color2": "#326657",
+        "color3": "#4F5F57",
+        "color4": "#4B6E4F",
+        "color5": "#609342",
+        "color6": "#609659",
+        "color7": "#c5d3a0",
+        "color8": "#899370",
+        "color9": "#2E4F4A",
+        "color10": "#326657",
+        "color11": "#4F5F57",
+        "color12": "#4B6E4F",
+        "color13": "#609342",
+        "color14": "#609659",
+        "color15": "#c5d3a0"
+    }
+}

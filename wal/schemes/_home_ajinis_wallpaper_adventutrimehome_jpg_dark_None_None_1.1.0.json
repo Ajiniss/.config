@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/wallpaper/adventutrimehome.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#182029",
+        "foreground": "#f4e8c9",
+        "cursor": "#f4e8c9"
+    },
+    "colors": {
+        "color0": "#182029",
+        "color1": "#FF7D87",
+        "color2": "#5C939C",
+        "color3": "#F7968A",
+        "color4": "#FDA98D",
+        "color5": "#FEBBA3",
+        "color6": "#FCCB95",
+        "color7": "#f4e8c9",
+        "color8": "#aaa28c",
+        "color9": "#FF7D87",
+        "color10": "#5C939C",
+        "color11": "#F7968A",
+        "color12": "#FDA98D",
+        "color13": "#FEBBA3",
+        "color14": "#FCCB95",
+        "color15": "#f4e8c9"
+    }
+}
