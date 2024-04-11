@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/wallpaper/sf3-3rd-strike-ibuki-stage.gif",
+    "alpha": "100",
+    "special": {
+        "background": "#1a0d01",
+        "foreground": "#dfccc0",
+        "cursor": "#dfccc0"
+    },
+    "colors": {
+        "color0": "#1a0d01",
+        "color1": "#D46D28",
+        "color2": "#A76D4D",
+        "color3": "#C57244",
+        "color4": "#E48E32",
+        "color5": "#DF9760",
+        "color6": "#DAA76E",
+        "color7": "#dfccc0",
+        "color8": "#9c8e86",
+        "color9": "#D46D28",
+        "color10": "#A76D4D",
+        "color11": "#C57244",
+        "color12": "#E48E32",
+        "color13": "#DF9760",
+        "color14": "#DAA76E",
+        "color15": "#dfccc0"
+    }
+}

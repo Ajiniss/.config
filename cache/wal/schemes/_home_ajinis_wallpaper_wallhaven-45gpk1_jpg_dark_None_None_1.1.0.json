@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/wallpaper/wallhaven-45gpk1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0e0c",
+        "foreground": "#aaaaac",
+        "cursor": "#aaaaac"
+    },
+    "colors": {
+        "color0": "#0e0e0c",
+        "color1": "#3E3F41",
+        "color2": "#403F42",
+        "color3": "#3E4142",
+        "color4": "#4A4B4B",
+        "color5": "#61605E",
+        "color6": "#5C5D62",
+        "color7": "#aaaaac",
+        "color8": "#767678",
+        "color9": "#3E3F41",
+        "color10": "#403F42",
+        "color11": "#3E4142",
+        "color12": "#4A4B4B",
+        "color13": "#61605E",
+        "color14": "#5C5D62",
+        "color15": "#aaaaac"
+    }
+}

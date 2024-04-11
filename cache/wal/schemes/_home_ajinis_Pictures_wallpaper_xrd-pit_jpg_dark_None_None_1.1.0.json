@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/Pictures/wallpaper/xrd-pit.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#182122",
+        "foreground": "#c8e4f0",
+        "cursor": "#c8e4f0"
+    },
+    "colors": {
+        "color0": "#182122",
+        "color1": "#D69E74",
+        "color2": "#75B4E3",
+        "color3": "#A3A691",
+        "color4": "#D8B28B",
+        "color5": "#E6D5A2",
+        "color6": "#A4B9C4",
+        "color7": "#c8e4f0",
+        "color8": "#8c9fa8",
+        "color9": "#D69E74",
+        "color10": "#75B4E3",
+        "color11": "#A3A691",
+        "color12": "#D8B28B",
+        "color13": "#E6D5A2",
+        "color14": "#A4B9C4",
+        "color15": "#c8e4f0"
+    }
+}

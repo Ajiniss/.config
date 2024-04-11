@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/wallpaper/wp3164620.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0705",
+        "foreground": "#ded0c0",
+        "cursor": "#ded0c0"
+    },
+    "colors": {
+        "color0": "#0D0705",
+        "color1": "#943A1D",
+        "color2": "#915C30",
+        "color3": "#967251",
+        "color4": "#74857F",
+        "color5": "#AC8E68",
+        "color6": "#CB9D6E",
+        "color7": "#ded0c0",
+        "color8": "#9b9186",
+        "color9": "#943A1D",
+        "color10": "#915C30",
+        "color11": "#967251",
+        "color12": "#74857F",
+        "color13": "#AC8E68",
+        "color14": "#CB9D6E",
+        "color15": "#ded0c0"
+    }
+}

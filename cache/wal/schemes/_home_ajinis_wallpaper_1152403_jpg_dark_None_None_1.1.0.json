@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/wallpaper/1152403.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#03080A",
+        "foreground": "#a1c8c7",
+        "cursor": "#a1c8c7"
+    },
+    "colors": {
+        "color0": "#03080A",
+        "color1": "#264F60",
+        "color2": "#615F51",
+        "color3": "#46777E",
+        "color4": "#9D6B44",
+        "color5": "#A3905C",
+        "color6": "#DAAA4E",
+        "color7": "#a1c8c7",
+        "color8": "#708c8b",
+        "color9": "#264F60",
+        "color10": "#615F51",
+        "color11": "#46777E",
+        "color12": "#9D6B44",
+        "color13": "#A3905C",
+        "color14": "#DAAA4E",
+        "color15": "#a1c8c7"
+    }
+}

@@ -1,0 +1,21 @@
+set $wallpaper /home/ajinis/Pictures/wallpaper/eva.png
+
+set $background #0B0D0A
+set $foreground #f0f2df
+
+set $color0 #0B0D0A
+set $color1 #DB512E
+set $color2 #708E62
+set $color3 #A29360
+set $color4 #D8A55C
+set $color5 #77A786
+set $color6 #C0CAA2
+set $color7 #f0f2df
+set $color8 #a8a99c
+set $color9 #DB512E
+set $color10 #708E62
+set $color11 #A29360
+set $color12 #D8A55C
+set $color13 #77A786
+set $color14 #C0CAA2
+set $color15 #f0f2df

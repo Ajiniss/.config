@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/Pictures/wallpaper/xrd-vestige.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0f0f",
+        "foreground": "#ebeac6",
+        "cursor": "#ebeac6"
+    },
+    "colors": {
+        "color0": "#0d0f0f",
+        "color1": "#718A6D",
+        "color2": "#9D956A",
+        "color3": "#D0BD73",
+        "color4": "#6F9189",
+        "color5": "#A9BB98",
+        "color6": "#A7CD9C",
+        "color7": "#ebeac6",
+        "color8": "#a4a38a",
+        "color9": "#718A6D",
+        "color10": "#9D956A",
+        "color11": "#D0BD73",
+        "color12": "#6F9189",
+        "color13": "#A9BB98",
+        "color14": "#A7CD9C",
+        "color15": "#ebeac6"
+    }
+}

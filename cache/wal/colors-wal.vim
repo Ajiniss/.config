@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/ajinis/Pictures/wallpaper/eva.png"
+let background = "#0B0D0A"
+let foreground = "#f0f2df"
+let cursor     = "#f0f2df"
+
+" Colors
+let color0  = "#0B0D0A"
+let color1  = "#DB512E"
+let color2  = "#708E62"
+let color3  = "#A29360"
+let color4  = "#D8A55C"
+let color5  = "#77A786"
+let color6  = "#C0CAA2"
+let color7  = "#f0f2df"
+let color8  = "#a8a99c"
+let color9  = "#DB512E"
+let color10 = "#708E62"
+let color11 = "#A29360"
+let color12 = "#D8A55C"
+let color13 = "#77A786"
+let color14 = "#C0CAA2"
+let color15 = "#f0f2df"

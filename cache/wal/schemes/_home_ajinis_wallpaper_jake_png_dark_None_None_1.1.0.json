@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ajinis/wallpaper/jake.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1a120f",
+        "foreground": "#ddbd9a",
+        "cursor": "#ddbd9a"
+    },
+    "colors": {
+        "color0": "#1a120f",
+        "color1": "#87533C",
+        "color2": "#8D663B",
+        "color3": "#875747",
+        "color4": "#9B6949",
+        "color5": "#B26F58",
+        "color6": "#C78A41",
+        "color7": "#ddbd9a",
+        "color8": "#9a846b",
+        "color9": "#87533C",
+        "color10": "#8D663B",
+        "color11": "#875747",
+        "color12": "#9B6949",
+        "color13": "#B26F58",
+        "color14": "#C78A41",
+        "color15": "#ddbd9a"
+    }
+}
